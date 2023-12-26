@@ -1,0 +1,40 @@
+body,
+h1,
+h2,
+h3,
+p,
+ul,
+ol,
+li,
+figure,
+figcaption,
+blockquote,
+dl,
+dd,
+dt {
+  margin: 0;
+  padding: 0;
+}
+
+/* Establecer una fuente base y tamaño para la aplicación */
+body {
+  font-family: 'Arial', sans-serif;
+  font-size: 16px;
+}
+
+/* Establecer márgenes y espaciados globales */
+body {
+  margin: 0;
+  padding: 0;
+}
+
+/* Establecer estilos para enlaces */
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+/* Establecer estilos para listas */
+ul, ol {
+  list-style: none;
+}
